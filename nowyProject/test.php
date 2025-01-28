@@ -1,4 +1,4 @@
 <?php
-echo 'Twoje Repo!';
-echo "Jestem Drugi!"
+echo "Trzeci przychodzi, pierwszy znika";
+echo "Trzeci przychodzi, pierwszy znika";
 ?>
